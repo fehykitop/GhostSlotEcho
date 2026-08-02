@@ -1,0 +1,16 @@
+{
+  "category.ghostslotecho": "Ghost Slot Echo",
+  "key.ghostslotecho.open_config": "Налаштування Ghost Slot Echo",
+  "title.ghostslotecho.config": "Налаштування Ghost Slot Echo",
+  "category.ghostslotecho.general": "Основні налаштування",
+  "option.ghostslotecho.echo_duration": "Тривалість ехо (секунди)",
+  "option.ghostslotecho.echo_duration.tooltip": "Час у секундах, через який незакріплений привидний предмет зникає",
+  "option.ghostslotecho.ghost_opacity": "Прозорість привидів (%)",
+  "option.ghostslotecho.ghost_opacity.tooltip": "Рівень прозорості фантомних предметів",
+  "option.ghostslotecho.persist_on_close": "Зберігати привиди при закритті",
+  "option.ghostslotecho.persist_on_close.tooltip": "Привиди залишаються у сховищах після закриття сундуків та GUI",
+  "option.ghostslotecho.enable_smart_quick_move": "Розумне швидке переміщення (Shift+ЛКМ)",
+  "option.ghostslotecho.enable_smart_quick_move.tooltip": "Автоматично шукати відповідні фантомні слоти при Shift+ЛКМ",
+  "option.ghostslotecho.enable_pinning": "Закріплення слотів (СКМ / Shift+ПКМ)",
+  "option.ghostslotecho.enable_pinning.tooltip": "Дозволяє закріплювати фантоми на постійній основі для сортування"
+}

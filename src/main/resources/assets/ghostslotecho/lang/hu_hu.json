@@ -1,0 +1,16 @@
+{
+  "category.ghostslotecho": "Ghost Slot Echo",
+  "key.ghostslotecho.open_config": "Открий налаштування Ghost Slot Echo",
+  "title.ghostslotecho.config": "Ghost Slot Echo Beállítások",
+  "category.ghostslotecho.general": "Általános beállítások",
+  "option.ghostslotecho.echo_duration": "Visszhang időtartama (másodperc)",
+  "option.ghostslotecho.echo_duration.tooltip": "Másodpercek száma a nem rögzített szellemhely eltűnéséig",
+  "option.ghostslotecho.ghost_opacity": "Szellemek átlátszósága (%)",
+  "option.ghostslotecho.ghost_opacity.tooltip": "A szellem tárgyak átlátszóságának szintje",
+  "option.ghostslotecho.persist_on_close": "Szellemek megőrzése bezáráskor",
+  "option.ghostslotecho.persist_on_close.tooltip": "A szellemek a ládákban maradnak a GUI bezárása után is",
+  "option.ghostslotecho.enable_smart_quick_move": "Okos gyors mozgatás (Shift+Bal egér)",
+  "option.ghostslotecho.enable_smart_quick_move.tooltip": "Shift+Bal egérgombbal előnyben részesíti az egyező szellemhelyeket",
+  "option.ghostslotecho.enable_pinning": "Helyek rögzítése (Középső gomb / Shift+Jobb egér)",
+  "option.ghostslotecho.enable_pinning.tooltip": "Lehetővé teszi a szellemek állandó rögzítését rendezés céljából"
+}

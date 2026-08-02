@@ -1,0 +1,16 @@
+{
+  "category.ghostslotecho": "Ghost Slot Echo",
+  "key.ghostslotecho.open_config": "Mở cài đặt Ghost Slot Echo",
+  "title.ghostslotecho.config": "Cài đặt Ghost Slot Echo",
+  "category.ghostslotecho.general": "Cài đặt chung",
+  "option.ghostslotecho.echo_duration": "Thời gian hiệu ứng (giây)",
+  "option.ghostslotecho.echo_duration.tooltip": "Giây trước khi ô bóng chưa ghim biến mất",
+  "option.ghostslotecho.ghost_opacity": "Độ mờ bóng (%)",
+  "option.ghostslotecho.ghost_opacity.tooltip": "Mức độ trong suốt của vật phẩm bóng",
+  "option.ghostslotecho.persist_on_close": "Giữ bóng khi đóng",
+  "option.ghostslotecho.persist_on_close.tooltip": "Bóng vẫn còn trong rương sau khi đóng GUI",
+  "option.ghostslotecho.enable_smart_quick_move": "Di chuyển nhanh thông minh (Shift+Click trái)",
+  "option.ghostslotecho.enable_smart_quick_move.tooltip": "Ưu tiên ô bóng phù hợp khi dùng Shift+Click trái",
+  "option.ghostslotecho.enable_pinning": "Ghim ô (Nút giữa / Shift+Click phải)",
+  "option.ghostslotecho.enable_pinning.tooltip": "Cho phép ghim bóng vĩnh viễn để sắp xếp"
+}

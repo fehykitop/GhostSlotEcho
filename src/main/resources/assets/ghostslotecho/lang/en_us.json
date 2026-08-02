@@ -1,0 +1,16 @@
+{
+  "category.ghostslotecho": "Ghost Slot Echo",
+  "key.ghostslotecho.open_config": "Open Ghost Slot Echo Config",
+  "title.ghostslotecho.config": "Ghost Slot Echo Settings",
+  "category.ghostslotecho.general": "General Settings",
+  "option.ghostslotecho.echo_duration": "Echo Duration (seconds)",
+  "option.ghostslotecho.echo_duration.tooltip": "Time in seconds before an unpinned ghost slot disappears",
+  "option.ghostslotecho.ghost_opacity": "Ghost Opacity (%)",
+  "option.ghostslotecho.ghost_opacity.tooltip": "Visual transparency percentage of ghost items",
+  "option.ghostslotecho.persist_on_close": "Persist Echoes on GUI Close",
+  "option.ghostslotecho.persist_on_close.tooltip": "If enabled, ghost slots remain stored after closing containers",
+  "option.ghostslotecho.enable_smart_quick_move": "Enable Smart Quick-Move",
+  "option.ghostslotecho.enable_smart_quick_move.tooltip": "Prioritize matching ghost slots when Shift+LMB clicking items",
+  "option.ghostslotecho.enable_pinning": "Enable Slot Pinning",
+  "option.ghostslotecho.enable_pinning.tooltip": "Allow Middle-Click or Shift+RMB to pin ghost slots permanently"
+}

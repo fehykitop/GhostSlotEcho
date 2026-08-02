@@ -1,0 +1,16 @@
+{
+  "category.ghostslotecho": "Ghost Slot Echo",
+  "key.ghostslotecho.open_config": "Abrir configurações Ghost Slot Echo",
+  "title.ghostslotecho.config": "Configurações Ghost Slot Echo",
+  "category.ghostslotecho.general": "Configurações Gerais",
+  "option.ghostslotecho.echo_duration": "Duração do eco (segundos)",
+  "option.ghostslotecho.echo_duration.tooltip": "Segundos antes de um slot fantasma não fixado desaparecer",
+  "option.ghostslotecho.ghost_opacity": "Opacidade dos fantasmas (%)",
+  "option.ghostslotecho.ghost_opacity.tooltip": "Nível de transparência dos itens fantasmas",
+  "option.ghostslotecho.persist_on_close": "Manter fantasmas ao fechar",
+  "option.ghostslotecho.persist_on_close.tooltip": "Os fantasmas permanecem nos baús após fechar a GUI",
+  "option.ghostslotecho.enable_smart_quick_move": "Movimento rápido inteligente (Shift+Clique esquerdo)",
+  "option.ghostslotecho.enable_smart_quick_move.tooltip": "Prioriza slots fantasma correspondentes com Shift+Clique esquerdo",
+  "option.ghostslotecho.enable_pinning": "Fixar slots (Botão do meio / Shift+Clique direito)",
+  "option.ghostslotecho.enable_pinning.tooltip": "Permite fixar fantasmas permanentemente para organização"
+}

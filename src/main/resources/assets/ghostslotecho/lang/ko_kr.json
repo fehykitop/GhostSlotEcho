@@ -1,0 +1,16 @@
+{
+  "category.ghostslotecho": "Ghost Slot Echo",
+  "key.ghostslotecho.open_config": "Ghost Slot Echo 설정 열기",
+  "title.ghostslotecho.config": "Ghost Slot Echo 설정",
+  "category.ghostslotecho.general": "일반 설정",
+  "option.ghostslotecho.echo_duration": "에코 지속 시간 (초)",
+  "option.ghostslotecho.echo_duration.tooltip": "고정되지 않은 유령 슬롯이 사라지기까지의 시간(초)",
+  "option.ghostslotecho.ghost_opacity": "유령 불투명도 (%)",
+  "option.ghostslotecho.ghost_opacity.tooltip": "유령 아이템의 투명도 수준",
+  "option.ghostslotecho.persist_on_close": "닫을 때 유령 유지",
+  "option.ghostslotecho.persist_on_close.tooltip": "인벤토리를 닫은 후에도 상자에 유령이 남아있습니다",
+  "option.ghostslotecho.enable_smart_quick_move": "스마트 빠른 이동 (Shift+좌클릭)",
+  "option.ghostslotecho.enable_smart_quick_move.tooltip": "Shift+좌클릭 시 일치하는 유령 슬롯을 우선합니다",
+  "option.ghostslotecho.enable_pinning": "슬롯 고정 (중간 버튼 / Shift+우클릭)",
+  "option.ghostslotecho.enable_pinning.tooltip": "정렬을 위해 유령을 영구적으로 고정할 수 있습니다"
+}

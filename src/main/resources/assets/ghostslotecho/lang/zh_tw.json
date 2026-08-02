@@ -1,0 +1,16 @@
+{
+  "category.ghostslotecho": "Ghost Slot Echo",
+  "key.ghostslotecho.open_config": "繁體中文",
+  "title.ghostslotecho.config": "Ghost Slot Echo 設定",
+  "category.ghostslotecho.general": "一般設定",
+  "option.ghostslotecho.echo_duration": "幽靈持續時間（秒）",
+  "option.ghostslotecho.echo_duration.tooltip": "未固定的幽靈格子消失前的秒數",
+  "option.ghostslotecho.ghost_opacity": "幽靈透明度（%）",
+  "option.ghostslotecho.ghost_opacity.tooltip": "幽靈物品的透明程度",
+  "option.ghostslotecho.persist_on_close": "關閉時保留幽靈",
+  "option.ghostslotecho.persist_on_close.tooltip": "關閉箱子介面後幽靈依然保留",
+  "option.ghostslotecho.enable_smart_quick_move": "智能快速移動（Shift+左鍵）",
+  "option.ghostslotecho.enable_smart_quick_move.tooltip": "Shift+左鍵時優先填入對應幽靈格子",
+  "option.ghostslotecho.enable_pinning": "固定格子（滾輪鍵 / Shift+右鍵）",
+  "option.ghostslotecho.enable_pinning.tooltip": "允許永久固定幽靈格子用於整理排序"
+}

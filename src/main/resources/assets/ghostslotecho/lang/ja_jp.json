@@ -1,0 +1,16 @@
+{
+  "category.ghostslotecho": "Ghost Slot Echo",
+  "key.ghostslotecho.open_config": "Ghost Slot Echo の設定を開く",
+  "title.ghostslotecho.config": "Ghost Slot Echo 設定",
+  "category.ghostslotecho.general": "一般設定",
+  "option.ghostslotecho.echo_duration": "エコー持続時間（秒）",
+  "option.ghostslotecho.echo_duration.tooltip": "固定されていないゴーストスロットが消えるまでの秒数",
+  "option.ghostslotecho.ghost_opacity": "ゴーストの不透明度（%）",
+  "option.ghostslotecho.ghost_opacity.tooltip": "ゴーストアイテムの透明度レベル",
+  "option.ghostslotecho.persist_on_close": "閉じた後もゴーストを保持",
+  "option.ghostslotecho.persist_on_close.tooltip": "チェストを閉じた後もゴーストがチェスト内に残ります",
+  "option.ghostslotecho.enable_smart_quick_move": "スマートクイックムーブ（Shift+左クリック）",
+  "option.ghostslotecho.enable_smart_quick_move.tooltip": "Shift+左クリック時に一致するゴーストスロットを優先します",
+  "option.ghostslotecho.enable_pinning": "スロットのピン留め（中ボタン / Shift+右クリック）",
+  "option.ghostslotecho.enable_pinning.tooltip": "整理のためにゴーストを永久にピン留めできます"
+}

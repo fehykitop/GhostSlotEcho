@@ -1,0 +1,16 @@
+{
+  "category.ghostslotecho": "Ghost Slot Echo",
+  "key.ghostslotecho.open_config": "Otwórz ustawienia Ghost Slot Echo",
+  "title.ghostslotecho.config": "Ustawienia Ghost Slot Echo",
+  "category.ghostslotecho.general": "Ustawienia ogólne",
+  "option.ghostslotecho.echo_duration": "Czas trwania echa (sekundy)",
+  "option.ghostslotecho.echo_duration.tooltip": "Czas w sekundach przed zniknięciem niezapiętego ducha",
+  "option.ghostslotecho.ghost_opacity": "Przezroczystość duchów (%)",
+  "option.ghostslotecho.ghost_opacity.tooltip": "Poziom przezroczystości przedmiotów-duchów",
+  "option.ghostslotecho.persist_on_close": "Zachowaj duchy po zamknięciu",
+  "option.ghostslotecho.persist_on_close.tooltip": "Duchy pozostają w skrzyniach po zamknięciu GUI",
+  "option.ghostslotecho.enable_smart_quick_move": "Inteligentne szybkie przenoszenie (Shift+LPM)",
+  "option.ghostslotecho.enable_smart_quick_move.tooltip": "Priorytetyzuje pasujące sloty-duchy przy Shift+LPM",
+  "option.ghostslotecho.enable_pinning": "Przypinanie slotów (Środkowy przycisk / Shift+PPM)",
+  "option.ghostslotecho.enable_pinning.tooltip": "Pozwala trwale przypiąć duchy w celu sortowania"
+}

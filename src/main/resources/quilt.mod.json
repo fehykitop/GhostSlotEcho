@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "quilt_loader": {
+    "group": "com.ghostslotecho",
+    "id": "ghostslotecho",
+    "version": "${version}",
+    "metadata": {
+      "name": "Ghost Slot Echo",
+      "description": "Dynamic inventory memory indicating where items used to be with smart quick-move and slot pinning.",
+      "contributors": {
+        "fehykitop": "Owner"
+      },
+      "contact": {},
+      "license": "MIT",
+      "icon": "assets/ghostslotecho/icon.png"
+    },
+    "intermediate_mappings": "net.fabricmc:intermediary",
+    "environment": "client",
+    "entrypoints": {
+      "client_init": [
+        {
+          "adapter": "default",
+          "value": "com.ghostslotecho.GhostSlotEchoMod"
+        }
+      ],
+      "modmenu": [
+        {
+          "adapter": "default",
+          "value": "com.ghostslotecho.config.ModMenuIntegration"
+        }
+      ]
+    },
+    "depends": [
+      {
+        "id": "quilt_loader",
+        "versions": ">=0.26.0"
+      },
+      {
+        "id": "minecraft",
+        "versions": ">=1.21.1 <1.21.5"
+      },
+      {
+        "id": "java",
+        "versions": ">=21"
+      }
+    ],
+    "breaks": []
+  },
+  "mixin": [
+    "ghostslotecho.mixins.json"
+  ]
+}

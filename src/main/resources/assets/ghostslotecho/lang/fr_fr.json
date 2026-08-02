@@ -1,0 +1,16 @@
+{
+  "category.ghostslotecho": "Ghost Slot Echo",
+  "key.ghostslotecho.open_config": "Ouvrir les paramètres Ghost Slot Echo",
+  "title.ghostslotecho.config": "Paramètres Ghost Slot Echo",
+  "category.ghostslotecho.general": "Paramètres généraux",
+  "option.ghostslotecho.echo_duration": "Durée de l'écho (secondes)",
+  "option.ghostslotecho.echo_duration.tooltip": "Temps en secondes avant la disparition d'un slot fantôme",
+  "option.ghostslotecho.ghost_opacity": "Opacité des fantômes (%)",
+  "option.ghostslotecho.ghost_opacity.tooltip": "Niveau de transparence des objets fantômes",
+  "option.ghostslotecho.persist_on_close": "Conserver les fantômes à la fermeture",
+  "option.ghostslotecho.persist_on_close.tooltip": "Les fantômes restent dans les coffres après fermeture du GUI",
+  "option.ghostslotecho.enable_smart_quick_move": "Déplacement rapide intelligent (Shift+Clic gauche)",
+  "option.ghostslotecho.enable_smart_quick_move.tooltip": "Priorise les slots fantômes correspondants avec Shift+Clic gauche",
+  "option.ghostslotecho.enable_pinning": "Épingler les slots (Clic molette / Shift+Clic droit)",
+  "option.ghostslotecho.enable_pinning.tooltip": "Permet d'épingler définitivement les fantômes pour le tri"
+}

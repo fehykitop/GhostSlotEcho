@@ -1,0 +1,16 @@
+{
+  "category.ghostslotecho": "Ghost Slot Echo",
+  "key.ghostslotecho.open_config": "فتح إعدادات Ghost Slot Echo",
+  "title.ghostslotecho.config": "إعدادات Ghost Slot Echo",
+  "category.ghostslotecho.general": "الإعدادات العامة",
+  "option.ghostslotecho.echo_duration": "مدة الصدى (بالثواني)",
+  "option.ghostslotecho.echo_duration.tooltip": "الثواني قبل اختفاء الفتحة الشبحية غير المثبتة",
+  "option.ghostslotecho.ghost_opacity": "شفافية الأشباح (%)",
+  "option.ghostslotecho.ghost_opacity.tooltip": "مستوى شفافية العناصر الشبحية",
+  "option.ghostslotecho.persist_on_close": "الاحتفاظ بالأشباح عند الإغلاق",
+  "option.ghostslotecho.persist_on_close.tooltip": "تبقى الأشباح في الصناديق بعد إغلاق الواجهة",
+  "option.ghostslotecho.enable_smart_quick_move": "النقل السريع الذكي (Shift+نقر أيسر)",
+  "option.ghostslotecho.enable_smart_quick_move.tooltip": "يُعطي الأولوية لفتحات الأشباح المطابقة عند الضغط Shift+نقر أيسر",
+  "option.ghostslotecho.enable_pinning": "تثبيت الفتحات (زر الوسط / Shift+نقر أيمن)",
+  "option.ghostslotecho.enable_pinning.tooltip": "يسمح بتثبيت الأشباح بشكل دائم للتصنيف"
+}

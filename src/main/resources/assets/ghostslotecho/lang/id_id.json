@@ -1,0 +1,16 @@
+{
+  "category.ghostslotecho": "Ghost Slot Echo",
+  "key.ghostslotecho.open_config": "Ghost Slot Echo 설정 열기",
+  "title.ghostslotecho.config": "Ghost Slot Echo Konfiguratsiya",
+  "category.ghostslotecho.general": "Umumiy sozlamalar",
+  "option.ghostslotecho.echo_duration": "Yangraş davomiyligi (soniya)",
+  "option.ghostslotecho.echo_duration.tooltip": "Mahkamlanmagan arvoh uyasi yo'qolishi uchun soniyalar soni",
+  "option.ghostslotecho.ghost_opacity": "Arvoh shaffoflik darajasi (%)",
+  "option.ghostslotecho.ghost_opacity.tooltip": "Arvoh buyumlarining shaffoflik darajasi",
+  "option.ghostslotecho.persist_on_close": "Yopilganda arvohlarni saqlash",
+  "option.ghostslotecho.persist_on_close.tooltip": "GUI yopilgandan so'ng arvohlar sanduqlarda qoladi",
+  "option.ghostslotecho.enable_smart_quick_move": "Aqlli tezkor ko'chirish (Shift+Chap tugma)",
+  "option.ghostslotecho.enable_smart_quick_move.tooltip": "Shift+Chap tugmada mos arvoh uyalariga ustunlik beradi",
+  "option.ghostslotecho.enable_pinning": "Uyalarni mahkamlash (O'rta tugma / Shift+O'ng tugma)",
+  "option.ghostslotecho.enable_pinning.tooltip": "Saralash uchun arvohlarni doimiy ravishda mahkamlashga imkon beradi"
+}

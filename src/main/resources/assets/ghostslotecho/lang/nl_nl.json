@@ -1,0 +1,16 @@
+{
+  "category.ghostslotecho": "Ghost Slot Echo",
+  "key.ghostslotecho.open_config": "Открий налаштування Ghost Slot Echo",
+  "title.ghostslotecho.config": "Ghost Slot Echo Instellingen",
+  "category.ghostslotecho.general": "Algemene instellingen",
+  "option.ghostslotecho.echo_duration": "Echoduur (seconden)",
+  "option.ghostslotecho.echo_duration.tooltip": "Seconden voordat een niet-vastgezet geestslot verdwijnt",
+  "option.ghostslotecho.ghost_opacity": "Geest-doorzichtigheid (%)",
+  "option.ghostslotecho.ghost_opacity.tooltip": "Transparantieniveau van geestvoorwerpen",
+  "option.ghostslotecho.persist_on_close": "Geesten bewaren bij sluiten",
+  "option.ghostslotecho.persist_on_close.tooltip": "Geesten blijven in kisten na het sluiten van de GUI",
+  "option.ghostslotecho.enable_smart_quick_move": "Slim snel verplaatsen (Shift+LMK)",
+  "option.ghostslotecho.enable_smart_quick_move.tooltip": "Geeft prioriteit aan overeenkomende geestsloten bij Shift+LMK",
+  "option.ghostslotecho.enable_pinning": "Slots vastzetten (middelste knop / Shift+RMK)",
+  "option.ghostslotecho.enable_pinning.tooltip": "Geesten permanent vastzetten voor sortering"
+}

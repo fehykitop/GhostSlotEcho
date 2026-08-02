@@ -1,0 +1,16 @@
+{
+  "category.ghostslotecho": "Ghost Slot Echo",
+  "key.ghostslotecho.open_config": "Ghost Slot Echo Einstellungen öffnen",
+  "title.ghostslotecho.config": "Ghost Slot Echo Einstellungen",
+  "category.ghostslotecho.general": "Allgemeine Einstellungen",
+  "option.ghostslotecho.echo_duration": "Echo-Dauer (Sekunden)",
+  "option.ghostslotecho.echo_duration.tooltip": "Sekunden bis ein ungepinnter Geist-Slot verschwindet",
+  "option.ghostslotecho.ghost_opacity": "Geist-Transparenz (%)",
+  "option.ghostslotecho.ghost_opacity.tooltip": "Transparenzgrad der Geist-Items",
+  "option.ghostslotecho.persist_on_close": "Geister beim Schließen behalten",
+  "option.ghostslotecho.persist_on_close.tooltip": "Geister bleiben in Truhen nach dem Schließen erhalten",
+  "option.ghostslotecho.enable_smart_quick_move": "Intelligentes Schnellbewegen (Shift+LMT)",
+  "option.ghostslotecho.enable_smart_quick_move.tooltip": "Priorisiert passende Geist-Slots bei Shift+LMT",
+  "option.ghostslotecho.enable_pinning": "Slots anpinnen (Mitteltaste / Shift+RMT)",
+  "option.ghostslotecho.enable_pinning.tooltip": "Ermöglicht das dauerhafte Anpinnen von Geistern zum Sortieren"
+}

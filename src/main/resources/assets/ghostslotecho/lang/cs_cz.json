@@ -1,0 +1,16 @@
+{
+  "category.ghostslotecho": "Ghost Slot Echo",
+  "key.ghostslotecho.open_config": "Открий налаштування Ghost Slot Echo",
+  "title.ghostslotecho.config": "Ghost Slot Echo Nastavení",
+  "category.ghostslotecho.general": "Obecná nastavení",
+  "option.ghostslotecho.echo_duration": "Trvání echa (sekundy)",
+  "option.ghostslotecho.echo_duration.tooltip": "Sekundy před zmizením nepřipnutého duchového slotu",
+  "option.ghostslotecho.ghost_opacity": "Průhlednost duchů (%)",
+  "option.ghostslotecho.ghost_opacity.tooltip": "Úroveň průhlednosti duchových předmětů",
+  "option.ghostslotecho.persist_on_close": "Zachovat duchy při zavření",
+  "option.ghostslotecho.persist_on_close.tooltip": "Duchové zůstávají v truhlách po zavření GUI",
+  "option.ghostslotecho.enable_smart_quick_move": "Chytré rychlé přesouvání (Shift+LMT)",
+  "option.ghostslotecho.enable_smart_quick_move.tooltip": "Prioritizuje odpovídající duchové sloty při Shift+LMT",
+  "option.ghostslotecho.enable_pinning": "Připínání slotů (střední tlačítko / Shift+PMT)",
+  "option.ghostslotecho.enable_pinning.tooltip": "Umožňuje trvale připnout duchy pro třídění"
+}

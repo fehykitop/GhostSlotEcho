@@ -1,0 +1,16 @@
+{
+  "category.ghostslotecho": "Ghost Slot Echo",
+  "key.ghostslotecho.open_config": "Ghost Slot Echo yapılandırmasını aç",
+  "title.ghostslotecho.config": "Ghost Slot Echo Ayarları",
+  "category.ghostslotecho.general": "Genel Ayarlar",
+  "option.ghostslotecho.echo_duration": "Yankı süresi (saniye)",
+  "option.ghostslotecho.echo_duration.tooltip": "Sabitlenmemiş hayalet slotun kaybolmasına kadar geçen saniye",
+  "option.ghostslotecho.ghost_opacity": "Hayalet opaklığı (%)",
+  "option.ghostslotecho.ghost_opacity.tooltip": "Hayalet öğelerin şeffaflık seviyesi",
+  "option.ghostslotecho.persist_on_close": "Kapatırken hayaletleri koru",
+  "option.ghostslotecho.persist_on_close.tooltip": "GUI kapatıldıktan sonra hayaletler sandıklarda kalır",
+  "option.ghostslotecho.enable_smart_quick_move": "Akıllı hızlı taşıma (Shift+Sol tık)",
+  "option.ghostslotecho.enable_smart_quick_move.tooltip": "Shift+Sol tıkta eşleşen hayalet slotları önceliklendirir",
+  "option.ghostslotecho.enable_pinning": "Slot sabitleme (Orta tuş / Shift+Sağ tık)",
+  "option.ghostslotecho.enable_pinning.tooltip": "Hayaletleri sıralama için kalıcı olarak sabitlemeye izin verir"
+}

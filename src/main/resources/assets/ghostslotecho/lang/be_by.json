@@ -1,0 +1,16 @@
+{
+  "category.ghostslotecho": "Ghost Slot Echo",
+  "key.ghostslotecho.open_config": "Открити налаштування Ghost Slot Echo",
+  "title.ghostslotecho.config": "Налаштування Ghost Slot Echo",
+  "category.ghostslotecho.general": "Агульныя налады",
+  "option.ghostslotecho.echo_duration": "Працягласць эха (секунды)",
+  "option.ghostslotecho.echo_duration.tooltip": "Час у секундах да знікнення незакрэпленага прывіду",
+  "option.ghostslotecho.ghost_opacity": "Празрыстасць прывідаў (%)",
+  "option.ghostslotecho.ghost_opacity.tooltip": "Узровень празрыстасці прывідных прадметаў",
+  "option.ghostslotecho.persist_on_close": "Захоўваць прывіды пры закрыцці",
+  "option.ghostslotecho.persist_on_close.tooltip": "Прывіды застаюцца ў скрынях пасля закрыцця GUI",
+  "option.ghostslotecho.enable_smart_quick_move": "Разумнае хуткае перамяшчэнне (Shift+ЛКМ)",
+  "option.ghostslotecho.enable_smart_quick_move.tooltip": "Аўтаматычна шукаць адпаведныя прывідныя слоты пры Shift+ЛКМ",
+  "option.ghostslotecho.enable_pinning": "Замацаванне слотаў (СКМ / Shift+ПКМ)",
+  "option.ghostslotecho.enable_pinning.tooltip": "Дазваляе назаўжды замацоўваць прывіды для сартавання"
+}

@@ -1,0 +1,16 @@
+{
+  "category.ghostslotecho": "Ghost Slot Echo",
+  "key.ghostslotecho.open_config": "Ghost Slot Echo আয়োজন খুলুন",
+  "title.ghostslotecho.config": "Ghost Slot Echo সেটিংস",
+  "category.ghostslotecho.general": "সাধারণ সেটিংস",
+  "option.ghostslotecho.echo_duration": "ইকো স্থায়িত্ব (সেকেন্ড)",
+  "option.ghostslotecho.echo_duration.tooltip": "পিন না করা ভূতুড়ে স্লট অদৃশ্য হওয়ার আগের সেকেন্ড",
+  "option.ghostslotecho.ghost_opacity": "ভূত স্বচ্ছতা (%)",
+  "option.ghostslotecho.ghost_opacity.tooltip": "ভূতুড়ে আইটেমের স্বচ্ছতার স্তর",
+  "option.ghostslotecho.persist_on_close": "বন্ধ করলে ভূত সংরক্ষণ করুন",
+  "option.ghostslotecho.persist_on_close.tooltip": "GUI বন্ধ করার পরে ভূতগুলো বাক্সে থাকে",
+  "option.ghostslotecho.enable_smart_quick_move": "স্মার্ট দ্রুত স্থানান্তর (Shift+বাম ক্লিক)",
+  "option.ghostslotecho.enable_smart_quick_move.tooltip": "Shift+বাম ক্লিকে মিলে যাওয়া ভূত স্লটকে অগ্রাধিকার দেয়",
+  "option.ghostslotecho.enable_pinning": "স্লট পিন করুন (মাঝের বোতাম / Shift+ডান ক্লিক)",
+  "option.ghostslotecho.enable_pinning.tooltip": "বাছাইয়ের জন্য ভূতগুলো স্থায়ীভাবে পিন করতে দেয়"
+}

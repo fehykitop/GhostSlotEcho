@@ -1,0 +1,16 @@
+{
+  "category.ghostslotecho": "Ghost Slot Echo",
+  "key.ghostslotecho.open_config": "Відкрий налаштування Ghost Slot Echo",
+  "title.ghostslotecho.config": "Налаштування Ghost Slot Echo (ін.)",
+  "category.ghostslotecho.general": "Κύριες Ρυθμίσεις",
+  "option.ghostslotecho.echo_duration": "Διάρκεια ήχου (δευτερόλεπτα)",
+  "option.ghostslotecho.echo_duration.tooltip": "Δευτερόλεπτα μέχρι να εξαφανιστεί ο απελευθερωμένος φάντασμα",
+  "option.ghostslotecho.ghost_opacity": "Αδιαφάνεια φαντάσματος (%)",
+  "option.ghostslotecho.ghost_opacity.tooltip": "Επίπεδο διαφάνειας αντικειμένων φαντάσματος",
+  "option.ghostslotecho.persist_on_close": "Διατήρηση φαντασμάτων κατά το κλείσιμο",
+  "option.ghostslotecho.persist_on_close.tooltip": "Τα φαντάσματα παραμένουν στα κιβώτια μετά το κλείσιμο του GUI",
+  "option.ghostslotecho.enable_smart_quick_move": "Έξυπνη γρήγορη μετακίνηση (Shift+Αριστερό Κλικ)",
+  "option.ghostslotecho.enable_smart_quick_move.tooltip": "Προτεραιότητα στις αντίστοιχες θέσεις φαντάσματος με Shift+Αριστερό Κλικ",
+  "option.ghostslotecho.enable_pinning": "Καρφίτσωμα θέσεων (Κουμπί Τροχού / Shift+Δεξί Κλικ)",
+  "option.ghostslotecho.enable_pinning.tooltip": "Επιτρέπει μόνιμο καρφίτσωμα φαντασμάτων για ταξινόμηση"
+}

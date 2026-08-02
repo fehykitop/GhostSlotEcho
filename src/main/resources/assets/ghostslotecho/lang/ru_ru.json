@@ -1,0 +1,16 @@
+{
+  "category.ghostslotecho": "Ghost Slot Echo",
+  "key.ghostslotecho.open_config": "Открыть настройки Ghost Slot Echo",
+  "title.ghostslotecho.config": "Настройки Ghost Slot Echo",
+  "category.ghostslotecho.general": "Основные настройки",
+  "option.ghostslotecho.echo_duration": "Длительность эха (секунды)",
+  "option.ghostslotecho.echo_duration.tooltip": "Время в секундах, через которое незакреплённый призрак исчезает",
+  "option.ghostslotecho.ghost_opacity": "Прозрачность призраков (%)",
+  "option.ghostslotecho.ghost_opacity.tooltip": "Уровень прозрачности фантомных предметов",
+  "option.ghostslotecho.persist_on_close": "Сохранять призраки при закрытии",
+  "option.ghostslotecho.persist_on_close.tooltip": "Призраки остаются в хранилищах после закрытия сундуков и GUI",
+  "option.ghostslotecho.enable_smart_quick_move": "Умное быстрое перемещение (Shift+ЛКМ)",
+  "option.ghostslotecho.enable_smart_quick_move.tooltip": "Автоматически искать подходящие призрачные слоты при Shift+ЛКМ",
+  "option.ghostslotecho.enable_pinning": "Закрепление слотов (СКМ / Shift+ПКМ)",
+  "option.ghostslotecho.enable_pinning.tooltip": "Позволяет закреплять призраки на постоянной основе для сортировки"
+}
