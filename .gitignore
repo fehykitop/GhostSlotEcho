@@ -1,0 +1,17 @@
+# Gradle build outputs
+.gradle/
+build/
+out/
+
+# Minecraft client run directory (saves, logs, configs)
+run/
+.fabric/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
