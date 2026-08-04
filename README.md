@@ -1,7 +1,7 @@
  Ghost Slot Echo
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-**Ghost Slot Echo** is a client-side Fabric mod for Minecraft that adds dynamic inventory memory, slot pinning, and smart quick-move capabilities.
+**Ghost Slot Echo** is a client-side mod for Minecraft that adds dynamic inventory memory, slot pinning, and smart quick-move capabilities.
 
 ---
 
