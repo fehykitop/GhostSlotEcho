@@ -17,14 +17,6 @@
 
 ---
 
- Installation & Requirements
-
-1. Make sure you have **Fabric Loader** installed for Minecraft **1.21.1+**.
-2. Download and place **Ghost Slot Echo** into your `.minecraft/mods` folder.
-3. *(Optional but Recommended)* Install **Fabric API**, **Mod Menu**, and **Cloth Config** for full settings access.
-
----
-
  Building from Source
 
 To build the mod executable `.jar` file yourself:
