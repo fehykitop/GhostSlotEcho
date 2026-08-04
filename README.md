@@ -7,10 +7,10 @@
 
  Features
 
- Ghost Slot Echoes:** Remembers where items used to be in your inventory or containers and displays subtle translucent icons in empty slots.
- Smart Quick-Move:** Automatically return items back to their remembered slots when shift-clicking or moving items.
- Slot Pinning:** Lock specific slots so items won't be moved or misplaced accidentally.
- High Customizability:** Tweak ghost opacity, animation effects, and keybindings via [Mod Menu](https://modrinth.com/mod/modmenu) & [Cloth Config](https://modrinth.com/mod/cloth-config).
+ Ghost Slot Echoes: Remembers where items used to be in your inventory or containers and displays subtle translucent icons in empty slots.
+ Smart Quick-Move: Automatically return items back to their remembered slots when shift-clicking or moving items.
+ Slot Pinning: Lock specific slots so items won't be moved or misplaced accidentally.
+ High Customizability: Tweak ghost opacity, animation effects, and keybindings via [Mod Menu](https://modrinth.com/mod/modmenu) & [Cloth Config](https://modrinth.com/mod/cloth-config).
 
 ---
 
